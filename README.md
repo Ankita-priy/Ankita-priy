@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ankita-priy
 - 👀 I’m interested in software 
-- 🌱 I’m currently learning c#.NET and Oracle
+- 🌱 I'm certified in c#.NET and Oracle
   
-- 💞️ I’m looking to job in IT field 
-- 📫 
+- 💞️ I’m looking forward for a job in IT field where I can utilise my technical skills 
+- 📫 you can ping me when there is any job opportunities regarding IT
 
 <!---
 Ankita-priy/Ankita-priy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
